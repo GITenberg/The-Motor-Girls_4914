@@ -1,0 +1,27 @@
+_repo: The-Motor-Girls_4914
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Penrose, Margaret
+    gutenberg_agent_id: '1022'
+    url: http://www.gutenberg.org/2009/agents/1022
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Penrose
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2004-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4914'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Adventure stories'
+- !lcc 'PZ'
+- !lcc 'PS'
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Automobiles -- Juvenile fiction'
+- GITenberg
+title: The Motor Girls
+url: http://www.gutenberg.org/ebooks/4914
